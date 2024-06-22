@@ -67,7 +67,7 @@
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
-        window.location.href = 'AboutUs.php'; // Redirect to AboutUs.php
+        window.location.href = 'index.php'; // Redirect to index.php
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');
@@ -117,7 +117,7 @@
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
-        window.location.href = 'main.php'; // Redirect to AboutUs.php
+        window.location.href = 'main.php'; // Redirect to main.php
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');
@@ -151,7 +151,7 @@
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
-        window.location.href = 'Login.php'; // Redirect to AboutUs.php
+        window.location.href = 'Login.php'; // Redirect to Login.php
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');
@@ -185,7 +185,7 @@
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
-        window.location.href = 'Signup.php'; // Redirect to AboutUs.php
+        window.location.href = 'Signup.php'; // Redirect to Signup.php
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');

@@ -181,7 +181,7 @@
         <button type='button' class='btn-close' onclick='dismissModalAndRedirect() aria-label='Close'></button>
       </div>
       <div class='modal-body'>
-        Reset link sent to your corresponding Email.
+        Reset link sent to your corresponding Email.<br>Please check your <b>Spam folder<b>.
       </div>
       <div class='modal-footer'>
         <button type='button' class='btn btn-primary' onclick='dismissModalAndRedirect()'>OK</button>
@@ -227,7 +227,7 @@
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
-        window.location.href = 'ForgotPwd.php'; // Redirect to AboutUs.php
+        window.location.href = 'index.php'; // Redirect to AboutUs.php
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');
@@ -258,7 +258,7 @@
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
-        window.location.href = 'Signup.php'; // Redirect to AboutUs.php
+        window.location.href = 'Signup.php'; // Redirect to Signup.php
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');
@@ -278,7 +278,7 @@
         <button type='button' class='btn-close' onclick='dismissModalAndRedirect() aria-label='Close'></button>
       </div>
       <div class='modal-body'>
-        Server is down.<br>Please try again after some time.
+        Something went wrong.<br>Please try again after some time.
       </div>
       <div class='modal-footer'>
         <button type='button' class='btn btn-primary' onclick='dismissModalAndRedirect()'>OK</button>
@@ -291,7 +291,7 @@
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
-        window.location.href = 'Login.php'; // Redirect to AboutUs.php
+        window.location.href = 'Login.php'; // Redirect to Login.php
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');

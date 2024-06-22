@@ -59,7 +59,7 @@ background-color: #FFC017 !important;
         <a class=" nav-link active text-white fs-5 mx-3 "  href="main.php">HOME</a>
       </li>
       <li class="nav-item">
-        <a class=" nav-link active text-white fs-5 mx-3 "  href="AboutUs.php">ABOUT</a>
+        <a class=" nav-link active text-white fs-5 mx-3 "  href="index.php">ABOUT</a>
       </li>
       <li class="nav-item ">
         <a class="  nav-link active text-white fs-5 mx-3" href="ContactUs.php">CONTACT</a>
