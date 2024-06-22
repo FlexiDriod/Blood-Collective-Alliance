@@ -7,7 +7,7 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-            <link rel="icon" type="image/x-icon" href="..\College project\icon-5b3206bf.png"/>
+            <link rel="icon" type="image/x-icon" href="icon-5b3206bf.png">
             <meta name="description" content="Blood Collective Alliance connects blood donors directly with patients in critical need, eliminating middlemen. Our mission is to save lives by reducing wait times, expanding the donor pool, and empowering communities through voluntary blood donations. Join us in making a difference today!">
             <!-- jQuery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -50,7 +50,7 @@
         <div class="card border border-light-subtle rounded-5 shadow">
           <div class="card-body p-3 p-md-4 p-xl-5">
             <div class="text-center mb-3">
-                <img src="..\College project\icon-5b3206bf.png" alt="Website Logo" width="300" height="300" >              
+                <img src="icon-5b3206bf.png" alt="Website Logo" width="300" height="300" >              
             </div>
             <h2 class="fs-5 fw-normal text-center text-secondary mb-4">Provide the email address associated with your account to recover your password.</h2>
 

@@ -17,7 +17,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 
     <title>Sign Up</title>
-    <link rel="icon" type="image/x-icon" href="..\College Project\icon-5b3206bf.png">
+    <link rel="icon" type="image/x-icon" href="icon-5b3206bf.png">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
         </script>
@@ -331,7 +331,7 @@ include ('_nav.php');
                                                 <div class="input-group-prepend">
                                                     <span class="input-group-text">
                                                         <img width="16" height="16"
-                                                            src="..\College project\district.png"
+                                                            src="district.png"
                                                             alt="cancel-4-digits" />
                                                     </span>
                                                 </div>

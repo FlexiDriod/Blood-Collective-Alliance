@@ -7,6 +7,7 @@
                 <title>Terms & Conditions</title>
                 <meta name="description" content="Blood Collective Alliance connects blood donors directly with patients in critical need, eliminating middlemen. Our mission is to save lives by reducing wait times, expanding the donor pool, and empowering communities through voluntary blood donations. Join us in making a difference today!">
                 <meta name="keywords" content="Blood Donation, Blood Collective Alliance,blood colective allaince, Blood Donor, India, Blood, Voluntary Blood Donation, Donate Blood, Blood Collection Services, Donor Finder, Blood Donor Finder, Blood Donation Near Me, Blood Donation Center, Blood Drive, Find Blood Donors, Blood Donor Finder India, Blood Donation online, ">
+                <link rel="icon" type="image/x-icon" href="icon-5b3206bf.png">
                 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous">
     </script>

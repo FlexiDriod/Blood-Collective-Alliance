@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=">
     <head>
-        <link rel="icon" type="image/x-icon" href="..\College project\icon-5b3206bf.png">
+        <link rel="icon" type="image/x-icon" href="icon-5b3206bf.png">
         <title>Contact Us</title>
         <link rel="stylesheet" href="contactUs.css">
         <meta charset="utf-8">

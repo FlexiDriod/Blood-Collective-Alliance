@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Pasword Update</title>
         <link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-        <link rel="icon" type="image/x-icon" href="..\College project\icon-5b3206bf.png"/>
+        <link rel="icon" type="image/x-icon" href="icon-5b3206bf.png">
        
   
     </head>
@@ -46,7 +46,7 @@
         <div class="card border border-light-subtle rounded-5 shadow">
           <div class="card-body p-3 p-md-4 p-xl-5">
             <div class="text-center mb-3">
-                <img src="..\College project\icon-5b3206bf.png" alt="Website Logo" width="200" height="200" >              
+                <img src="icon-5b3206bf.png" alt="Website Logo" width="200" height="200" >              
             </div>
             <h3 class="fs-5 fw-bold text-center text-secondary mb-4">Create New Password</h3>
             <form method="post" autocomplete="off">

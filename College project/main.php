@@ -8,6 +8,7 @@
     <meta name="robots" content="notranslate">
 <head>
     <title>Donor Finder</title>
+    <link rel="icon" type="image/x-icon" href="icon-5b3206bf.png">
     <!-- jQuery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
