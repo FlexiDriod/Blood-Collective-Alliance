@@ -89,7 +89,7 @@
                                      In the event of any discrepancy between the information on this website and official Acts, Rules, Regulations, Policies, or Statements, the latter shall prevail. We emphasize that the Blood Collective Alliance team assumes no liability for any loss or damage, including indirect or consequential losses, arising from the use or inability to use the data on this website.
                                 </p>
                                 <p>
-                                Additionally, our website may include links to external websites for informational purposes. By clicking on these links, you acknowledge that you are leaving our site and are subject to the privacy policies and security measures of the respective external websites. Your use of the Blood Collective Alliance website constitutes acceptance of these terms and conditions. For any questions or clarifications regarding our policies, please <strong><a href = "..\College Project\ContactUs.php">contact us</a></strong>.
+                                Additionally, our website may include links to external websites for informational purposes. By clicking on these links, you acknowledge that you are leaving our site and are subject to the privacy policies and security measures of the respective external websites. Your use of the Blood Collective Alliance website constitutes acceptance of these terms and conditions. For any questions or clarifications regarding our policies, please <strong><a href = "ContactUs.php">contact us</a></strong>.
                                 </p>
                             </div>
                         </div>

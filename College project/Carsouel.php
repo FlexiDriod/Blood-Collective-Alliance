@@ -18,17 +18,17 @@ function show_carsoule(){
 
     <div class="carousel-inner">
       <div class="carousel-item active" data-bs-interval="3000">
-        <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1280" height="400" src="..\College project\Banner1.jpg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1280" height="400" src="Banner1.jpg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
         <rect width="100%" height="100%" fill="#777"></rect>
         </img>
       </div>
       <div class="carousel-item " data-bs-interval="3000">
-        <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1280" height="400" src="..\College project\Banner2.png" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1280" height="400" src="Banner2.png" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
         <rect width="100%" height="100%" fill="#777"></rect>
         </img>
       </div>
       <div class="carousel-item" data-bs-interval="3000">
-        <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1280" height="400" src="..\College project\Banner3.jpg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1280" height="400" src="Banner3.jpg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
         <rect width="100%" height="100%" fill="#777"></rect>
         </img>
       </div>
