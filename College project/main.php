@@ -635,7 +635,8 @@ function map_load(){
             echo "    if (latlng) {";
             echo "        var marker = L.marker(latlng).addTo(map).bindPopup('$donorName - $address');";
             echo "        markers.push(marker);";
-            echo "        map.fitBounds(L.featureGroup(markers).getBounds());"; // This will adjust the map to fit all markers
+            echo "        map.fitBounds(L.featureGroup(markers).getBounds());";
+            // This will adjust the map to fit all markers
             echo "    } else {";
             echo "        console.error('Geocoding failed for address: $address');";
             echo "    }";

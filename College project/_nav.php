@@ -4,9 +4,9 @@ session_start();
 function start_nav(){
 
     if (isset($_SESSION['LoggedIn']) && ($_SESSION['LoggedIn'] == true)) {
-        return $LoggedIn = true;
+        return true;
     } else {
-        return $LoggedIn = false;
+        return false;
     }
 }
 
@@ -146,12 +146,6 @@ function getImageSrc() {
 <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
       integrity = "sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin = "anonymous">
 
-<!--
-<link href = "/HIS/hisglobal/bootstrap5/bootstrap-5.0.2-dist/css/bootstrap.min.css" rel = "stylesheet">
-<script src = "../hisglobal/bbpublic/assets/custom/portalBBpublic.js" type = "text/javascript"></script>
-<link href = "../hisglobal/bbpublic/assets/elements/css/bootstrap.css" rel = "stylesheet">
-<link href = "../hisglobal/bbpublic/assets/font-awesome/css/font-awesome.min.css" rel = "stylesheet">
--->
 
 <script src = "https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity = "sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin = "anonymous">

@@ -825,6 +825,7 @@ include ('_nav.php');
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
+        window.location.href = 'Login.php';
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');
