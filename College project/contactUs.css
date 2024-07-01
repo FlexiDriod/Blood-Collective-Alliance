@@ -75,7 +75,7 @@
       display: flex;
       margin-bottom: 30px;
     }
-
+/* 
     .contact-info-icon {
       height: 70px;
       background-color: springgreen;
@@ -95,9 +95,9 @@
 
     .contact-info-content {
       margin-left: 25px;
-    }
+    } */
 
-    .contact-info-content h4 {
+    /* .contact-info-content h4 {
       color: #FFC436 !important;
       font-size: 1.4em!important;
       margin-bottom: 5px!important;
@@ -106,12 +106,9 @@
     .contact-info-content p {
       color: white;
       font-size: 1em;
-    }
+    } */
 
     h1 {
-      
-      font-size: 2em;
-      margin-bottom: 16px;
       color: #ff0000 !important;
     }
 
@@ -139,7 +136,9 @@
     @media only screen and (max-width: 768px) { /*768px*/
 
       .box-area {
-          margin: 0 10px;
+        margin: 0 10px;
+        padding: 0 20px; /* Adjust padding for better spacing */
+        width: 100% !important; /* Make the box full width on smaller screens */
 
       }
 
@@ -149,9 +148,8 @@
       }
 
       .right-box {
-          padding: 40px;
-
-      }
+        padding: 25px !important;
+    }
      .container{
     margin-left: 500px;
      }

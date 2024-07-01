@@ -18,8 +18,18 @@ function display_nav(){
 background-color: #FF8D6D;
 transition: all .5s;
 }
+.navbar-brand {
+
+  overflow: hidden;
+  // text-overflow: ellipsis;
+  word-break: break-all;
+  white-space: nowrap;
+
+}
+
 .navbar{
 background-color: #FFC017 !important;
+
 }
 
 .nav-link {
@@ -44,12 +54,15 @@ background-color: #FFC017 !important;
   padding-bottom: auto;
 }
 
+.navbar-dark .navbar-toggler-icon {
+  color: black !important;
+}
 
 </style>
 
-<nav class="navbar navbar-dark navbar-expand-lg  shadow-5 bg-body-tertiary mt-0 py-0 sticky-top"> 
+<nav class="navbar navbar-expand-lg  shadow-5 bg-body-tertiary mt-0 py-0 sticky-top"> 
 <div class=" container-fluid d-flex navbar-scroll"> <!--bg-danger--!>
-  <a class="navbar-brand fs-4 mx-3" href="#"><strong>BLOOD COLLECTIVE ALLIANCE</strong></a>
+  <a class="navbar-brand fs-4 fs-md-3 fs-sm-2 mx-2" href="#"><strong>BLOOD COLLECTIVE ALLIANCE</strong></a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -59,7 +72,7 @@ background-color: #FFC017 !important;
         <a class=" nav-link active text-white fs-5 mx-3 "  href="main.php">HOME</a>
       </li>
       <li class="nav-item">
-        <a class=" nav-link active text-white fs-5 mx-3 "  href="index.php">ABOUT</a>
+        <a class=" nav-link active text-white fs-5 mx-3 "  href="AboutUs.php">ABOUT</a>
       </li>
       <li class="nav-item ">
         <a class="  nav-link active text-white fs-5 mx-3" href="ContactUs.php">CONTACT</a>
@@ -128,7 +141,7 @@ function getImageSrc() {
             return "Photo not found.";
         }
     } else {
-        return "Error fetching photo: " . pg_last_error( $db_connect );
+        return "Error fetching photo, Please contact support.";// . pg_last_error( $db_connect );
     }
 }
 ?>

@@ -43,20 +43,20 @@ echo "
 </style>
 <div class= 'album py-5 container gradient-service'>
   <div class='row'>
-    <div class='col-xl-12 text-center mb-4'>
+    <div class='col-xl-12 text-center my-2'>
       <div class='service-title'>
         <h4 class='head'>Our Services</h4>
       </div>
     </div>
   </div>
-  <div class='row'>
+  <div class='row justify-items-center'>
     <div class='col-lg-4 col-md-6 text-center mb-3'>
       <div class='service-wrap service-1'>
         <div class='service-icon'>
           <i class='fas fa-layer-group'></i>
         </div>
         <h4 id='headings' style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Reliable platform</h4>
-        <p class='paragaph text-center' style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Our website has a proven track record of successful blood donor connections</p>
+        <p class='paragaph text-center' style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>We prioritize your security, ensuring our website is fully secure and protected, so you can trust us with your personal information.</p>
       </div>
     </div>
     <div class='col-lg-4 col-md-6 text-center mb-3'>
@@ -65,7 +65,7 @@ echo "
           <i class='far fa-chart-bar'></i>
         </div>
         <h4 id='headings'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Direct Connect</h4>
-        <p class='paragaph text-center'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Our platform allowing you to find and connect with verified blood donors diimmediately</p>
+        <p class='paragaph text-center'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Our platform allows you to find and connect with verified blood donors, eliminating intermediaries and ensuring a reliable connection.</p>
 
       </div>
     </div>
@@ -75,7 +75,7 @@ echo "
           <i class='fas fa-database'></i>
         </div>
         <h4 id='headings'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Hassle-Free</h4>
-        <p class='paragaph text-center'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Finding a blood donor shouldn't be a hassle anymore! Our site helps to connects with donors.</p>
+        <p class='paragaph text-center'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Don't tense up in critical situations to find a donor, We connect you with verified blood donors  when you needed</p>
       </div>
     </div>
     <div class='col-lg-4 col-md-6 text-center mb-3'>
@@ -83,8 +83,8 @@ echo "
         <div class='service-icon'>
           <i class='fas fa-cogs'></i>
         </div>
-        <h4 id='headings'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>G-Map integration</h4>
-        <p class='paragaph text-center'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Locate verified blood donors near you with ease and speed, with integrated G-Maps feature</p>
+        <h4 id='headings'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Map integration</h4>
+        <p class='paragaph text-center'style='text-shadow: 1px 1px 2px rgba(0,0,0,0.4);'>Find verified donors near you instantly with our integrated map feature, making it easy to locate a match.</p>
       </div>
     </div>
     <div class='col-lg-4 col-md-6 text-center mb-3'>

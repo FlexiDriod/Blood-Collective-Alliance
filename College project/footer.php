@@ -28,7 +28,7 @@ text-decoration: underline; /* Underline on hover */
             <div class="row text-center both">
               <div class="col-md-6 col-sm-12 col-xs-12 footer-logo text-center "><span id="copyYear">© 2023 - 2024 </span> by <a href="AboutUs.php" target="_blank">Blood Collective Allaince</a></div>
               <div class="col-md-6 col-sm-12 col-xs-12 footer-logo text-center both"> 
-              ®&nbsp;Designed and Developed by <a href="https://www.linkedin.com/in/sudip-howlader-7638532a9" target="_blank"> Sudip Howlader</a> & <a href="https://www.linkedin.com/in/trinankur-samanta-3ab687150" target="_blank"> Trinankur Samanta </a>
+              ®&nbsp;Designed and Developed by <a href="https://www.linkedin.com/in/sudip-howlader-7638532a9" target="_blank"> Sudip</a> & <a href="https://www.linkedin.com/in/trinankur-samanta-3ab687150" target="_blank"> Trinankur</a>
               </div>
             </div>
             <div class="col-md-12 col-sm-12 col-xs-12 footer-logo text-center both1 ">

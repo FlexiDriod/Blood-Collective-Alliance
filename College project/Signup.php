@@ -714,7 +714,7 @@ include ('_nav.php');
             $donorGender = $_POST['donorGender'];
             $donorBloodGrp = $_POST['donorBloodGrp'];
             $donorMobile = $_POST['donorMobile'];
-            $donorEmail = $_POST['donorEmail'];
+            $donorEmail = strtolower($_POST['donorEmail']);
             $donorPincode = $_POST['donorPincode'];
             $donorState = $_POST['donorState'];
             $donorDistrict = $_POST['donorDistrict'];
@@ -824,8 +824,8 @@ include ('_nav.php');
   <script>
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
+    window.location.href = 'Login.php'; // Redirect to Login.php
         $('#messageSentModal').modal('hide'); // Hide the modal
-        window.location.href = 'Login.php';
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');
@@ -918,6 +918,7 @@ include ('_nav.php');
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
+        window.location.href = 'AboutUs.php'; // Redirect to AboutUs.php
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');

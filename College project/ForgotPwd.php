@@ -227,7 +227,7 @@
     // JavaScript function to dismiss modal and redirect
     function dismissModalAndRedirect() {
         $('#messageSentModal').modal('hide'); // Hide the modal
-        window.location.href = 'index.php'; // Redirect to AboutUs.php
+        window.location.href = 'AboutUs.php'; // Redirect to AboutUs.php
     }
     $(document).ready(function() {
         $('#messageSentModal').modal('show');

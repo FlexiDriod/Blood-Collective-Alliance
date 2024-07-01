@@ -75,22 +75,40 @@
 }
 
 .service-1:hover{ 
-    background-image: url(https://i.ibb.co/d2ddxK7/image.png);
+    background-image: url(https://i.ibb.co/PrLgBBB/image.png);
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 .service-2:hover{ 
-    background-image: url(https://i.ibb.co/R3pH63W/preview-173430-LG3-Bz-Fp1-GC-high-0013-1655993229.jpg);
+    background-image: url(https://i.ibb.co/PrLgBBB/image.png);
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 .service-3:hover{
-    background-image: url(https://i.ibb.co/KhM2yv0/onlineshopping-06887.jpg);
+    background-image: url(https://i.ibb.co/PrLgBBB/image.png);
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 .service-4:hover{
     background-image: url(https://i.ibb.co/nDkS7dQ/image.png);
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 .service-5:hover{
-    background-image: url(https://i.ibb.co/0C9rxTT/image.png);
+    background-image: url(https://i.ibb.co/PrLgBBB/image.png);
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 .service-6:hover{
     background-image: url(https://i.ibb.co/PrLgBBB/image.png);
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 .service-wrap:hover:before {
     background: rgba(0, 0, 0, 0.2901960784313726);
@@ -109,9 +127,11 @@
 .service-wrap h4 {
     font-weight: 600;
     color: #1e2331;
+/*
     margin-bottom: 17px;
     font-size: 18px;
     text-transform: capitalize;
+*/
     position: relative;
 }
 .service-wrap a {
